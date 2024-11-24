@@ -1,0 +1,29 @@
+.colorerosso {
+    color: red;
+    font-family: Impact;
+    text-align: center;
+}
+body {
+	background-color: lime;
+}
+input {
+	margin-top: 15px;
+}
+input, p {
+	font-weight: bold;
+}
+#paragrafi {
+	float: left;
+	width: 200px;
+}
+#cane {
+	float:right;
+	padding-right: 60px;
+}
+#footer {
+	position: fixed;
+	bottom: 401 px;
+}
+#cane .preferito {
+	font-size: 30px;
+}
